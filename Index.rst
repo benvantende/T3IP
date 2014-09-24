@@ -58,6 +58,7 @@ Guide
 	Administrator/Index
 	Configuration/Index
 	Developer/Index
+	FAQ/Index
 	KnownProblems/Index
 	ToDoList/Index
 	ChangeLog/Index
