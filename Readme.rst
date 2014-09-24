@@ -15,6 +15,7 @@ across manuals or how to present a TypoScript reference.
 Any idea or suggestion for improving this template `can be dropped`_ to
 the `Documentation Team`_.
 
+
 Remember: documentation is like gift wrapping, it may look superfluous,
 but your friends tend to be rather disappointed when their presents
 arrive in supermarket carrier bags. (Documentation-Driven Design quote)
