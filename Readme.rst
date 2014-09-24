@@ -1,4 +1,4 @@
-Extension Manual
+TYPO3 6.2 Introduction Package Manual
 ================
 
 This is a template manual aiming to help developers when it comes to documentation.

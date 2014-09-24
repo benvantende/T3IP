@@ -8,31 +8,31 @@
 .. _start:
 
 =============================================================
-Guide
+TYPO3 6.2 Introduction Package Manual
 =============================================================
 
 .. only:: html
 
 	:Classification:
-		guide
+		introduction
 
 	:Version:
-		|release|
+		|2.0.1|
 
 	:Language:
 		en
 
 	:Description:
-		Guides new users through the system.
+		Guides new users through the Introduction Package.
 
 	:Keywords:
-		comma,separated,list,of,keywords
+		backend,user,editor
 
 	:Copyright:
 		2014
 
 	:Author:
-		TYPO3 CMS Team
+		TYPO3 IP Team
 
 	:Email:
 
