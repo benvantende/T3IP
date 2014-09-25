@@ -22,7 +22,7 @@ The introduction package is shipped with three users. Let's see what they can do
 **Simple Editor**
 
 .. figure:: ../Images/Backend/simple_Editor_Login.png
-	:width: 800px
+	:width: 300px
 	:alt: Login as an simple editor
 
 When you log in as "simple_editor" you will see this when you activate the Page module and select the page "Examples" for editing:
