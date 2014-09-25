@@ -1,4 +1,16 @@
-How to use the IP
-===============
+.. ==================================================
+.. FOR YOUR INFORMATION
+.. --------------------------------------------------
+.. -*- coding: utf-8 -*- with BOM.
 
-Some text
+.. include:: ../Includes.txt
+
+
+.. _usage:
+
+How to use the Introduction Package
+===================================
+
+* Discovery
+* Best Practices
+* Trainings
