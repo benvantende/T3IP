@@ -10,11 +10,11 @@
 
 FAQ
 ==========
-** Why do I not see any Backed Layout?**
+**Why do I not see any Backed Layout?**
 To see the Backend Layout you must the column view
 
 .. figure:: ../Images/column-view.png
-    :width: 250px
+	:width: 250px
 	:alt: Column view
 
 **The links below the 3 TEXT & ICONS elements are only standard links instead of the orange colored buttons?**
