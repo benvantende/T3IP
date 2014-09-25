@@ -44,6 +44,7 @@ Only the page "Content Examples" with its subpages the "simple_editor" is allowe
 Images and Documents are managed in the "Filelist" module. The "simple_editor" sees all relevant folders like Images and Documents in the filelist.
 
 **Advanced Editor**
+
 Now, log in as "advanced_editor".
 
 .. figure:: ../Images/Backend/advanced_Editor_BE1.png
