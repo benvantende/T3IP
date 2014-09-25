@@ -16,7 +16,11 @@ Backend
 Backend users
 -------------
 The final step in our efforts to get this introduction website running is to look at distributed maintenance - a core requirement to a CMS. We already discussed the difference between frontend and backend users and how backend users were located in the root of the page tree:
-[screenshot list BE User]
+
+.. figure:: ../Images/Backend/advanced_Editor_BE3.png
+        :width: 800px
+        :alt: List of Backend Users
+
 The introduction package is shipped with three users. Let's see what they can do. The best way to do this is to logout as admin and log in as one of these users, one at a time.
 
 **Simple Editor**
