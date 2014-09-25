@@ -22,7 +22,7 @@ The introduction package is shipped with three users. Let's see what they can do
 **Simple Editor**
 
 .. figure:: ../Images/Backend/simple_Editor_Login.png
-        :width: 300px
+        :width: 200px
         :alt: Login as an simple editor
 
 When you log in as "simple_editor" you will see this when you activate the Page module and select the page "Examples" for editing:
@@ -35,11 +35,24 @@ Only the page "Content Examples" with its subpages the "simple_editor" is allowe
 
 .. figure:: ../Images/Backend/simple_Editor_BE1.png
         :width: 800px
-        :alt: filelist as an simple editor
+        :alt: Filelist as an simple editor
 
 Images and Documents are managed in the "Filelist" module. The "simple_editor" sees all relevant folders like Images and Documents in the filelist.
 
 **Advanced Editor**
+Now, log in as "advanced_editor".
+
+.. figure:: ../Images/Backend/advanced_Editor_BE1.png
+        :width: 800px
+        :alt: Page tree as an simple editor
+
+The "advanced_editor" sees much more modules and the whole page structure. He is able to do the same as the simple_editor and much more. So, it is possible to restrict everyone to that modules and pages, which he needs to know. Have a look at the Filelist module.
+
+.. figure:: ../Images/Backend/advanced_Editor_BE2.png
+        :width: 800px
+        :alt: Page tree as an simple editor
+
+The "advanced_editor" does not see the whole fileadmin folder. But he has access to the "Documents" and the "Images" folder.
 
 **Administrator**
 
