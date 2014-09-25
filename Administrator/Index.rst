@@ -6,10 +6,19 @@
 .. include:: ../Includes.txt
 
 
-.. _admin-manual:
+.. _administration:
 
 Administrator Manual
 ====================
+
+* Backend modules principles
+    * Extension Manager
+* User Management
+    * Create User
+    * Rights
+* Languages Management
+* Templates
+* Typoscript Configuration
 
 Target group: **Administrators**
 
