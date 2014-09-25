@@ -21,19 +21,19 @@ The introduction package is shipped with three users. Let's see what they can do
 
 **Simple Editor**
 
-.. figure:: ../Images/Backend/simple_editor_Login.png
+.. figure:: ../Images/Backend/simple_Editor_Login.png
 	:width: 800px
 	:alt: Login as an simple editor
 
 When you log in as "simple_editor" you will see this when you activate the Page module and select the page "Examples" for editing:
 
-.. figure:: ../Images/Backend/simple_editor_BE2.png
+.. figure:: ../Images/Backend/simple_Editor_BE2.png
 	:width: 800px
 	:alt: Page tree as an simple editor
 
 Only the page "Content Examples" with its subpages the "simple_editor" is allowed to edit at that branch of the website. But it does not only reflect permission management - it also helps make the system more intuitive and user friendly. As you can see most of the backend modules are not shown to the simple_editor either. The menu to the left contains only the "Page" modules in addition to the "File" and "User settings" module.
 
-.. figure:: ../Images/Backend/simple_editor_BE1.png
+.. figure:: ../Images/Backend/simple_Editor_BE1.png
 	:width: 800px
 	:alt: filelist as an simple editor
 
