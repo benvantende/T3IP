@@ -12,7 +12,7 @@ FAQ
 ==========
 * I don't see any Backed Layout?
     To see the Backend Layout you must the column view
-![Backend Layout](/Images/column-view.png)
+.. figure::../Images/column-view.png)
     Format: ![Column view](url)
 * The links below the 3 TEXT & ICONS elements are only standard links instead of the orange colored buttons?
     Due to unsolved technical reasons there is an error in the html.
