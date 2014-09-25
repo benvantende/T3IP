@@ -10,8 +10,11 @@
 
 FAQ
 ==========
+**Which version of TYPO3 CMS are covered by this documentation?**
+This documentation will cover versions of TYPO3 CMS 6.2.x
+
 **Why do I not see any Backed Layout?**
-To see the Backend Layout you must the column view
+To see the Backend Layout you must choose in the module menu page, the page and the column view in the content area.
 
 .. figure:: ../Images/column-view.png
 	:width: 250px
