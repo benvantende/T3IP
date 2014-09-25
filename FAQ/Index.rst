@@ -10,10 +10,10 @@
 
 FAQ
 ==========
-* I don't see any Backed Layout?
-    To see the Backend Layout you must the column view
-    .. figure:: ../Images/column-view.png
-    :alt: Column view
-* The links below the 3 TEXT & ICONS elements are only standard links instead of the orange colored buttons?
-    Due to unsolved technical reasons there is an error in the html.
-    Solution: Open in the RTE the source code and change this `<a href="http://intro.typo3-themes.org/?id=35" class="btn" title="btn-primary">Features</a>` to `<a href="http://intro.typo3-themes.org/?id=35" class="btn btn-primary">Features</a>`
+** Why do I not see any Backed Layout?**
+To see the Backend Layout you must the column view
+.. figure:: ../Images/column-view.png
+:alt: Column view
+**The links below the 3 TEXT & ICONS elements are only standard links instead of the orange colored buttons?**
+Due to unsolved technical reasons there is an error in the html.
+Solution: Open in the RTE the source code and change this `<a href="http://intro.typo3-themes.org/?id=35" class="btn" title="btn-primary">Features</a>` to `<a href="http://intro.typo3-themes.org/?id=35" class="btn btn-primary">Features</a>`
