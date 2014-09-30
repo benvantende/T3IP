@@ -6,9 +6,9 @@
 .. include:: ../Includes.txt
 
 
-.. _configuration:
+.. _contentelements:
 
 Content Elements
-=======================
+================
 
 Technical information: 
